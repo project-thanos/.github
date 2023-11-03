@@ -1,0 +1,2 @@
+# .github
+Livetipr Project Documentation
